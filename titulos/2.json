@@ -1,0 +1,37 @@
+{
+  "schema": "microcred-v1",
+  "type": "TITULO",
+  "institution": {
+    "name": "Universidad Virtual del Estado de Guanajuato",
+    "siglas": "UVEG",
+    "pais": "México",
+    "estado": "Guanajuato"
+  },
+  "student": {
+    "nombreCompleto": "Sandra Marquez",
+    "idEstudiante": "A0123492"
+  },
+  "program": {
+    "nombre": "Licenciatura en Administración",
+    "nivel": "Licenciatura",
+    "area": "Ciencias Administrativas",
+    "modalidad": "En línea"
+  },
+  "credential": {
+    "nombreTitulo": "Título Profesional - Licenciatura en Administración",
+    "folio": "UVEG-2026-000002",
+    "autoridadEmisora": "UVEG"
+  },
+  "dates": {
+    "inicio": "2024-01-01",
+    "conclusion": "2024-12-31",
+    "emision": "2025-01-01",
+    "expiracion": null,
+    "zonaHoraria": "America/Mexico_City"
+  },
+  "extras": {
+    "promedio": 9.2,
+    "estatus": "Emitido",
+    "observaciones": "Documento emitido por la institución. La validez se confirma con el registro en blockchain."
+  }
+}

@@ -1,6 +1,6 @@
 {
   "schema": "microcred-v1",
-  "type": "TITULO",
+  "type": "DIPLOMADO",
   "institution": {
     "name": "Universidad Virtual del Estado de Guanajuato",
     "siglas": "UVEG",
@@ -12,26 +12,27 @@
     "idEstudiante": "A0123492"
   },
   "program": {
-    "nombre": "Licenciatura en Administración",
-    "nivel": "Licenciatura",
-    "area": "Ciencias Administrativas",
+    "nombre": "Diplomado en Analítica de Datos y Visualización",
+    "nivel": "Diplomado",
+    "area": "Tecnologías de la Información",
     "modalidad": "En línea"
   },
   "credential": {
-    "nombreTitulo": "Título Profesional - Licenciatura en Administración",
+    "nombreTitulo": "Microcredencial - Diplomado en Analítica de Datos y Visualización",
     "folio": "UVEG-2026-000002",
     "autoridadEmisora": "UVEG"
   },
   "dates": {
-    "inicio": "2024-01-01",
-    "conclusion": "2024-12-31",
-    "emision": "2025-01-01",
+    "inicio": "2025-02-01",
+    "conclusion": "2025-04-30",
+    "emision": "2025-05-01",
     "expiracion": null,
     "zonaHoraria": "America/Mexico_City"
   },
   "extras": {
-    "promedio": 9.2,
+    "promedio": 9.6,
     "estatus": "Emitido",
-    "observaciones": "Documento emitido por la institución. La validez se confirma con el registro en blockchain."
+    "observaciones": "Microcredencial emitida por la institución. La validez se confirma con el registro en blockchain."
   }
 }
+
